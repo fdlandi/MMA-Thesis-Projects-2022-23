@@ -2,14 +2,14 @@
 
 ## Table of contents
    1. [Who We Are](#who-we-are)
-   2. [Audio-related Projects](#audio-related-projects)
+   2. [Speech-related Projects](#speech-related-projects)
    3. [Video-related Projects](#video-related-projects)
    4. [Join Us](#join-us)
 
 ## Who We Are
 We are the MultiModal Amsterdam (MMA) Team, from the Huawei Technologies Amsterdam Research Center. Our group counts seven full-time engineers/researchers working on the audio-visual aspects of deep learning. All of us have a PhD and/or multiple years of experience in Artificial Intelligence, Computer Science, or closely-related topics. For this reason, we can grant you high-quality supervision and mentorship throughout your Thesis experience. Read more about our currently available projects in speech and video topics below.
 
-## Audio-related Projects
+## Speech-related Projects
 
 ### End-to-End Speech Recognition/Translation
 
